@@ -396,9 +396,9 @@ img {
 }
 
 footer {
-  display: block;
   position: sticky;
   bottom: 0;
+  display: block;
   padding: 15px;
   background: rgba(255, 255, 255, 0.3);
 }

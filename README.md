@@ -2,8 +2,7 @@
 
 parallax site sample
 
-パララックスをcssで実装するサンプル
-
+パララックスを css で実装するサンプル
 
 ## setup
 
