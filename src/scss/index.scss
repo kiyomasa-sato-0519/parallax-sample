@@ -25,6 +25,23 @@ img {
   height: 100%;
 }
 
+footer {
+  display: block;
+  position: sticky;
+  bottom: 0;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.3);
+  p {
+    color: #000;
+    a {
+      color: #fff;
+    }
+    &.leading-loose {
+      text-align: right;
+    }
+  }
+}
+
 .description {
   position: absolute;
   top: 50%;

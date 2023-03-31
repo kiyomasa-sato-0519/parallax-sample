@@ -2,6 +2,9 @@
 
 parallax site sample
 
+パララックスをcssで実装するサンプル
+
+
 ## setup
 
 ```sh
@@ -27,3 +30,7 @@ $ npm run build:sass
 ```sh
 $ open http://localhost:8080/
 ```
+
+## git pages
+
+[index.html](https://kiyomasa-sato-0519.github.io/parallax-sample/index.html)
